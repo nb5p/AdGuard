@@ -1,0 +1,25 @@
+3g.163.com##.ad-above-comment
+3g.163.com##.new_relative_doc.js-new-relative-doc 
+3g.163.com##.sub_box.sub-box.show
+3g.163.com##.widget-slider.widget-slider-article.bottom
+3g.163.com##section.article_comment
+3g.163.com##section.hotSearch-box
+baidu.com#@#.navs-bottom-bar[style="margin-top: 10px; height: 0px;"]
+cn.bing.com###b_opalpers
+cn.bing.com###ev_talkbox_wrapper
+juejin.cn##.recommend-box
+m.baidu.com###copyright + div
+m.baidu.com###wenda_inquiry
+m.baidu.com##[class^=ball-wrapper__]
+magi.com##.motds
+magi.com##.top-banner
+mp.weixin.qq.com###js_pc_qr_code
+pan.baidu.com##a.phone-banner
+tianyancha.com###tyc_banner_left
+wk.baidu.com##.card-vip.card-wrap
+wk.baidu.com##.fc-ad-contain
+wk.baidu.com##.reader-pop-manager-view-containter
+wk.baidu.com##.rec-go-search-guide
+wk.baidu.com##ul.pay-doc-marquee
+www.qixin.com##.cursor-p.app-corner-marker
+www.qixin.com##.web-diversion-container
